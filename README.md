@@ -10,4 +10,4 @@ He completado todos los apartados.
 Los ejercicios me parecieron [asequibles] salvo alguna excepción por una mala guía por parte de los links, sin embargo con esfuerzo e intentar enteder lo que haces, puedes acabar sacándolo.
 
 ## Archivos incluidos
-- [Soluciones](P_UD3_1_DiegoVM.df): documento con todas las soluciones.
+- [Soluciones](P_UD3_1_DiegoVM.pdf): documento con todas las soluciones.
