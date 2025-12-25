@@ -4,10 +4,10 @@ How to install, modify and add security to an apps server called Tomcat
 # Ejercicios Servidor de Aplicaciones Tomcat
 
 ## Grado de completitude
-He completado todos los apartados que me fueron posibles. Algunos apartados no los supe resolver y tengo dudas sobre la respuesta en [indica los apartados].
+He completado todos los apartados.
 
 ## Opinión sobre los ejercicios
-Los ejercicios me parecieron [asequibles / algo complicados / difíciles] y considero que [he comprendido / tengo una idea general de] cómo funciona el servidor de aplicaciones Tomcat.
+Los ejercicios me parecieron [asequibles] salvo alguna excepción por una mala guía por parte de los links, sin embargo con esfuerzo e intentar enteder lo que haces, puedes acabar sacándolo.
 
 ## Archivos incluidos
-- `P_UD3_1_DiegoVM.pdf`: documento con todas las soluciones.
+- [Soluciones](P_UD3_1_DiegoVM.df): documento con todas las soluciones.
